@@ -3,7 +3,9 @@ SKD dumped with Dumper7 | Replication and stuff: JGS 1.8
 
 
 ## Current Plan
-Make a 1.8.2 gs using the JGS 1.8 as base for replication and Battle Royale just in general 
+Make a 1.8.2 gs using the JGS 1.8 as base for replication and Battle Royale just in general.
+
+We are also using my SDK which is dumped with Dumper7, so we goona swap the SDKs in the gs?  ofc.
 
 ## JGS 1.8 features
 
