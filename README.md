@@ -22,3 +22,5 @@ We are also using my SDK which is dumped with Dumper7, so we goona swap the SDKs
 - [X] Duos
 - [X] Same Team definitions
 - [ ] Buggy running (idfk why Will be fixed)
+
+# I might make smthing here
